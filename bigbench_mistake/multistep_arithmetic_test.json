@@ -1,0 +1,242 @@
+[
+  {
+    "question": "((-4 + 8 + -4 + 2) + (1 + -9 * 9 + -8)) = Thought 1: This equation can be written as \"(A + B)\", where A = (-4 + 8 + -4 + 2) and B = (1 + -9 * 9 + -8). Thought 2: Let's calculate A = (-4 + 8 + -4 + 2) = ((-4 + 8) + (-4 + 2)) = (4 + (-2)) = 2. Thought 3: Let's calculate B = (1 + -9 * 9 + -8) = (1 + (-9 * 9) + -8) = (1 + (-81) + -8) = (1 + (-90)) = -89. Thought 4: Then, the final equation is A + B = 2 + (-89) = -87. So the answer is -87",
+    "answer": "2"
+  },
+  {
+    "question": "(((-9 + -4 - -3 + -5) - (-5 * 3 + -2 * 8)) + ((9 - -8 + 1 + -8) - (7 - -4 * -5 * 6))) = Thought 1: This equation can be written as \"A + B\", where A = ((-9 + -4 - -3 + -5) - (-5 * 3 + -2 * 8)) and B = ((9 - -8 + 1 + -8) - (7 - -4 * -5 * 6)). Thought 2: Let's calculate A = ((-9 + -4 - -3 + -5) - (-5 * 3 + -2 * 8)) = ((-9 + -4 + 3 + -5) - (-15 + -16)) = ((-11) - (-31)) = 20. Thought 3: Let's calculate B = ((9 - -8 + 1 + -8) - (7 - -4 * -5 * 6)) = ((9 + 8 + 1 + -8) - (7 - 120)) = (10 - (-113)) = 123. Thought 4: Then, the final equation is A + B = 20 + 123 = 143. So the answer is 143",
+    "answer": "1"
+  },
+  {
+    "question": "((-3 - -5 + 4 * 3) * (7 * 8 - -8 - -9)) = Thought 1: This equation can be written as \"(A * B)\", where A = (-3 - -5 + 4 * 3) and B = (7 * 8 - -8 - -9). Thought 2: Let's calculate A = (-3 - -5 + 4 * 3) = (-3 - -5 + (4 * 3)) = (-3 - -5 + (12)) = (-3 + 7 + 12) = 16. Thought 3: Let's calculate B = (7 * 8 - -8 - -9) = (7 * 8 - (-8 - -9)) = (7 * 8 - (-17)) = (7 * 8 + 17) = 71. Thought 4: Then, the final equation is (A * B) = (16 * 71) = 1136. So the answer is 1136",
+    "answer": "1"
+  },
+  {
+    "question": "(((8 - -2 + -3 * 6) * (4 + -1 + 5 - 6)) + ((-6 - -5 - 6 - -1) + (4 - -6 - 3 + 4))) = Thought 1: This equation can be written as \"(A * B) + (C + D)\", where A = (8 - -2 + -3 * 6) and B = (4 + -1 + 5 - 6) and C = (-6 - -5 - 6 - -1) and D = (4 - -6 - 3 + 4). Thought 2: Let's calculate A = (8 - -2 + -3 * 6) = (8 - -2 + (-3 * 6)) = (8 - -2 + (-18)) = (8 + 2 + (-18)) = (10 - 18) = -8. Thought 3: Let's calculate B = (4 + -1 + 5 - 6) = (4 + -1 + 5 - 6) = (4 + 4 - 6) = (8 - 6) = 2. Thought 4: Let's calculate C = (-6 - -5 - 6 - -1) = (-6 + 5 + 6 + 1) = (-6 + 12) = 6. Thought 5: Let's calculate D = (4 - -6 - 3 + 4) = (4 + 6 - 3 + 4) = (4 + 7 + 4) = (15 + 4) = 19. Thought 6: Then, the final equation is (A * B) + (C + D) = (-8 * 2) + (6 + 19) = (-16) + (25) = 9. So the answer is 9",
+    "answer": "3"
+  },
+  {
+    "question": "((-9 * -2 + 5 + -9) + (0 - 0 + 5 + -4)) = Thought 1: This equation can be written as \"(A + B)\", where A = (-9 * -2 + 5 + -9) and B = (0 - 0 + 5 + -4). Thought 2: Let's calculate A = (-9 * -2 + 5 + -9) = ((-9 * -2) + 5 + -9) = (18 + 5 + -9) = (14 + -9) = 5. Thought 3: Let's calculate B = (0 - 0 + 5 + -4) = (0 + 5 + -4) = (5 + -4) = 1. Thought 4: Then, the final equation is A + B = 5 + 1 = 6. So the answer is 6",
+    "answer": "1"
+  },
+  {
+    "question": "((-8 - -3 - -8 * 8) - (0 * -5 * -5 - -2)) = Thought 1: This equation can be written as \"(A - B)\", where A = (-8 - -3 - -8 * 8) and B = (0 * -5 * -5 - -2). Thought 2: Let's calculate A = (-8 - -3 - -8 * 8) = (-8 - -3 - (-8 * 8)) = (-8 - -3 - (-64)) = (-8 - -3 + 64) = 53. Thought 3: Let's calculate B = (0 * -5 * -5 - -2) = (0 * (-5 * -5) - -2) = (0 * 25 - -2) = (0 - -2) = 2. Thought 4: Then, the final equation is A - B = 53 - 2 = 51. So the answer is 51",
+    "answer": "1"
+  },
+  {
+    "question": "((4 * 6 * 3 + -2) + (-8 + -4 - -9 - 7)) = Thought 1: This equation can be written as \"(A + B)\", where A = (4 * 6 * 3 + -2) and B = (-8 + -4 - -9 - 7). Thought 2: Let's calculate A = (4 * 6 * 3 + -2) = ((4 * 6) * 3 + -2) = (24 * 3 + -2) = (72 + -2) = 70. Thought 3: Let's calculate B = (-8 + -4 - -9 - 7) = (-8 + -4 + 9 + 7) = (-12 + 12) = 0. Thought 4: Then, the final equation is A + B = 70 + 0 = 70. So the answer is 70",
+    "answer": "2"
+  },
+  {
+    "question": "(((9 - -9 + -6 + -6) - (-8 * 2 - 3 + 5)) - ((-7 * 3 + -3 - -1) - (-6 * -5 - -5 * -1))) = Thought 1: This equation can be written as \"A - B - C + D\", where A = (9 - -9 + -6 + -6), B = (-8 * 2 - 3 + 5), C = (-7 * 3 + -3 - -1), and D = (-6 * -5 - -5 * -1). Thought 2: Let's calculate A = (9 - -9 + -6 + -6) = (9 + 9 + -6 + -6) = (18 - 12) = 6. Thought 3: Let's calculate B = (-8 * 2 - 3 + 5) = (-16 - 3 + 5) = (-14). Thought 4: Let's calculate C = (-7 * 3 + -3 - -1) = (-21 + -3 + 1) = (-23). Thought 5: Let's calculate D = (-6 * -5 - -5 * -1) = (30 + 5) = (35). Thought 6: Then, the final equation is A - B - C + D = 6 - (-14) - (-23) + 35 = 78. So the answer is 78",
+    "answer": "No"
+  },
+  {
+    "question": "((-2 - 7 * 6 - 1) * (6 + 5 * -1 * 9)) = Thought 1: This equation can be written as \"(A * B)\", where A = (-2 - 7 * 6 - 1) and B = (6 + 5 * -1 * 9). Thought 2: Let's calculate A = (-2 - 7 * 6 - 1) = (-2 - (7 * 6) - 1) = (-2 - (42) - 1) = (-2 - 42 - 1) = -45. Thought 3: Let's calculate B = (6 + 5 * -1 * 9) = (6 + (5 * -1) * 9) = (6 + (-5) * 9) = (6 + (-5 * 9)) = (6 + (-45)) = -40. Thought 4: Then, the final equation is (A * B) = (-45 * -40) = 1800. So the answer is 1800",
+    "answer": "2"
+  },
+  {
+    "question": "((-6 * -8 + 7 * 3) + (-1 + -4 + 0 * -3)) = Thought 1: This equation can be written as \"(A + B)\", where A = (-6 * -8 + 7 * 3) and B = (-1 + -4 + 0 * -3). Thought 2: Let's calculate A = (-6 * -8 + 7 * 3) = ((-6 * -8) + (7 * 3)) = (48 + 21) = 69. Thought 3: Let's calculate B = (-1 + -4 + 0 * -3) = ((-1 + -4) + (0 * -3)) = (-5 + (0 * -3)) = (-5 + 0) = -5. Thought 4: Then, the final equation is A + B = 69 + -5 = 64. So the answer is 64",
+    "answer": "No"
+  },
+  {
+    "question": "((-2 + -5 - 1 * -1) + (2 * 0 + 0 * 3)) = Thought 1: This equation can be written as \"(A + B)\", where A = (-2 + -5 - 1 * -1) and B = (2 * 0 + 0 * 3). Thought 2: Let's calculate A = (-2 + -5 - 1 * -1) = (-2 + -5 - (-1)) = (-2 + -5 + 1) = (-6 + 1) = -5. Thought 3: Let's calculate B = (2 * 0 + 0 * 3) = (2 * 0 + 0) = (0 + 0) = 0. Thought 4: Then, the final equation is A + B = -5 + 0 = -5. So the answer is -5",
+    "answer": "1"
+  },
+  {
+    "question": "(((-7 - 6 - -4 - 3) * (-5 * -8 * 7 + 6)) - ((-8 + 8 * 1 + 1) - (7 + -5 - 6 - -4))) = Thought 1: This equation can be written as \"(A * B) - (C - D)\", where A = (-7 - 6 - -4 - 3) and B = (-5 * -8 * 7 + 6) and C = (-8 + 8 * 1 + 1) and D = (7 + -5 - 6 - -4). Thought 2: Let's calculate A = (-7 - 6 - -4 - 3) = (-7 - 6 + 4 + 3) = (-10 + 7) = -3. Thought 3: Let's calculate B = (-5 * -8 * 7 + 6) = ((-5 * -8) * 7 + 6) = (40 * 7 + 6) = (280 + 6) = 286. Thought 4: Let's calculate C = (-8 + 8 * 1 + 1) = (-8 + 8 + 1) = 1. Thought 5: Let's calculate D = (7 + -5 - 6 - -4) = (7 - 5 - 6 + 4) = (2). Thought 6: Then, the final equation is (A * B) - (C - D) = (-3 * 286) - (1 - 2) = (-858) - (-1) = -857. So the answer is -857",
+    "answer": "1"
+  },
+  {
+    "question": "(((-8 - -1 + -3 - -1) - (5 + 2 + 2 - -4)) * ((9 * 9 * 0 * 8) - (3 - 8 * -7 * 2))) = Thought 1: This equation can be written as \"(A - B) * (C - D)\", where A = (-8 - -1 + -3 - -1) and B = (5 + 2 + 2 - -4) and C = (9 * 9 * 0 * 8) and D = (3 - 8 * -7 * 2). Thought 2: Let's calculate A = (-8 - -1 + -3 - -1) = (-8 + 1 + 3 + 1) = -3. Thought 3: Let's calculate B = (5 + 2 + 2 - -4) = (5 + 2 + 2 + 4) = 13. Thought 4: Let's calculate C = (9 * 9 * 0 * 8) = (9 * 9 * 0) * 8 = 0 * 8 = 0. Thought 5: Let's calculate D = (3 - 8 * -7 * 2) = (3 - 8 * 14) = (3 - 112) = -109. Thought 6: Then, the final equation is (A - B) * (C - D) = (-3 - 13) * (0 - -109) = -16 * 109 = -1744. So the answer is -1744",
+    "answer": "1"
+  },
+  {
+    "question": "((-5 - -4 - 8 - 0) - (3 * -7 - -4 + -2)) = Thought 1: This equation can be written as \"A - B\", where A = (-5 - -4 - 8 - 0) and B = (3 * -7 - -4 + -2). Thought 2: Let's calculate A = (-5 - -4 - 8 - 0) = (-5 + 4 + 8 + 0) = (-1). Thought 3: Let's calculate B = (3 * -7 - -4 + -2) = (3 * -7 + 4 + 2) = (-21 + 6) = (-15). Thought 4: Then, the final equation is A - B = -1 - (-15) = 14. So the answer is 14",
+    "answer": "1"
+  },
+  {
+    "question": "(((-9 - -3 * 2 * -9) * (9 + 2 - 3 - 2)) * ((-4 * 0 * -1 - -3) + (2 + -9 - 5 + 8))) = Thought 1: This equation can be written as \"A * B * C\", where A = (-9 - -3 * 2 * -9), B = (9 + 2 - 3 - 2), and C = ((-4 * 0 * -1 - -3) + (2 + -9 - 5 + 8)). Thought 2: Let's calculate A = (-9 - -3 * 2 * -9) = (-9 - (-3 * 2 * -9)) = (-9 - (-3 * -18)) = (-9 - 54) = -63. Thought 3: Let's calculate B = (9 + 2 - 3 - 2) = (9 + 2 - 5) = (11 - 5) = 6. Thought 4: Let's calculate C = ((-4 * 0 * -1 - -3) + (2 + -9 - 5 + 8)) = ((-4 * 0 * 2) + (2 + -12 + 8)) = ((-4 * 0) + (-2)) = (0 + (-2)) = -2. Thought 5: Then, the final equation is A * B * C = (-63) * 6 * (-2) = 756. So the answer is 756",
+    "answer": "3"
+  },
+  {
+    "question": "(((-3 - 9) + (6 * -2)) * ((-2 - 6) * (0 + 3))) = Thought 1: This equation can be written as \"(A * B)\", where A = ((-3 - 9) + (6 * -2)) and B = ((-2 - 6) * (0 + 3)). Thought 2: Let's calculate A = ((-3 - 9) + (6 * -2)) = ((-3 - 9) + (-12)) = (-12 - 9) = -21. Thought 3: Let's calculate B = ((-2 - 6) * (0 + 3)) = ((-8) * (3)) = (-24). Thought 4: Then, the final equation is A * B = (-21) * (-24) = 504. So the answer is 504",
+    "answer": "1"
+  },
+  {
+    "question": "((5 - -5 + 7 * -4) + (1 - -6 * 3 * -1)) = Thought 1: This equation can be written as \"(A + B)\", where A = (5 - -5 + 7 * -4) and B = (1 - -6 * 3 * -1). Thought 2: Let's calculate A = (5 - -5 + 7 * -4) = (5 - -5 + (7 * -4)) = (5 - -5 + (-28)) = (5 + 5 + (-28)) = (10 - 28) = -18. Thought 3: Let's calculate B = (1 - -6 * 3 * -1) = (1 - (-6 * 3 * -1)) = (1 - (-6 * -3)) = (1 - 18) = -17. Thought 4: Then, the final equation is A + B = -18 + -17 = -35. So the answer is -35",
+    "answer": "No"
+  },
+  {
+    "question": "(((7 - 1 * -8) - (8 + -6 - 2)) - ((8 * -2 - 5) + (9 + 9 + 1))) = Thought 1: This equation can be written as \"A - B\", where A = ((7 - 1 * -8) - (8 + -6 - 2)) and B = ((8 * -2 - 5) + (9 + 9 + 1)). Thought 2: Let's calculate A = ((7 - 1 * -8) - (8 + -6 - 2)) = ((7 + 8) - (8 + -6 - 2)) = (15 - (-6)) = 21. Thought 3: Let's calculate B = ((8 * -2 - 5) + (9 + 9 + 1)) = ((-16 - 5) + (29)) = (-21 + 29) = 8. Thought 4: Then, the final equation is A - B = 21 - 8 = 13. So the answer is 13",
+    "answer": "1"
+  },
+  {
+    "question": "(((8 + 8 - 1) + (7 - 6 + -8)) * ((-8 + 4 + 3) * (2 - -2 - -4))) = Thought 1: This equation can be written as \"(A + B) * (C * D)\", where A = (8 + 8 - 1) + (7 - 6 + -8), B = ((-8 + 4 + 3) * (2 - -2 - -4)). Thought 2: Let's calculate A = (8 + 8 - 1) + (7 - 6 + -8) = (16 - 1) + (1 - 8) = 15 - 7 = 8. Thought 3: Let's calculate B = ((-8 + 4 + 3) * (2 - -2 - -4)) = ((-1 + 7) * (2 + 2 + 4)) = (6 * 8) = 48. Thought 4: Then, the final equation is (A + B) * (C * D) = (8 + 48) * (48) = 56 * 48 = 2704. So the answer is 2704",
+    "answer": "2"
+  },
+  {
+    "question": "((2 * -5 + 8 * -4) - (8 - -4 * -8 + 1)) = Thought 1: This equation can be written as \"(A - B)\", where A = (2 * -5 + 8 * -4) and B = (8 - -4 * -8 + 1). Thought 2: Let's calculate A = (2 * -5 + 8 * -4) = ((2 * -5) + (8 * -4)) = (-10 + (-32)) = (-42). Thought 3: Let's calculate B = (8 - -4 * -8 + 1) = (8 - (-4 * -8) + 1) = (8 - (32) + 1) = (-23 + 1) = (-22). Thought 4: Then, the final equation is A - B = -42 - (-22) = -20. So the answer is -20",
+    "answer": "2"
+  },
+  {
+    "question": "(((0 + 5 - 6 * -2) + (1 * -8 * 3 * -1)) + ((9 - -7 - -7 - 0) + (-7 - -3 - 8 * -2))) = Thought 1: This equation can be written as \"(A + B) + (C + D)\", where A = (0 + 5 - 6 * -2), B = (1 * -8 * 3 * -1), C = (9 - -7 - -7 - 0), and D = (-7 - -3 - 8 * -2). Thought 2: Let's calculate A = (0 + 5 - 6 * -2) = (0 + 5 - (6 * -2)) = (0 + 5 - (-12)) = (0 + 5 + 12) = 17. Thought 3: Let's calculate B = (1 * -8 * 3 * -1) = ((1 * -8) * 3 * -1) = ((-8) * 3 * -1) = ((-8) * (3 * -1)) = (-8) * (-3) = 24. Thought 4: Let's calculate C = (9 - -7 - -7 - 0) = (9 - (-7 - -7) - 0) = (9 - (-14) - 0) = (9 + 14 - 0) = 23. Thought 5: Let's calculate D = (-7 - -3 - 8 * -2) = (-7 - -3 - (8 * -2)) = (-7 - -3 - (-16)) = (-7 - -3 + 16) = 6. Thought 6: Then, the final equation is (A + B) + (C + D) = (17 + 24) + (23 + 6) = 41 + 29 = 70. So the answer is 70",
+    "answer": "3"
+  },
+  {
+    "question": "(((-6 - 8 - 9) * (-8 * -2 + 1)) + ((8 * 8 - 0) * (-1 * 1 * 2))) = Thought 1: This equation can be written as \"(A * B) + (C * D)\", where A = (-6 - 8 - 9) and B = (-8 * -2 + 1) and C = (8 * 8 - 0) and D = (-1 * 1 * 2). Thought 2: Let's calculate A = (-6 - 8 - 9) = (-6 - 8 - 9) = (-23). Thought 3: Let's calculate B = (-8 * -2 + 1) = ((-8 * -2) + 1) = (16 + 1) = (17). Thought 4: Let's calculate C = (8 * 8 - 0) = (8 * 8) = (64). Thought 5: Let's calculate D = (-1 * 1 * 2) = ((-1 * 1) * 2) = (-2) * 2) = (-4). Thought 6: Then, the final equation is (A * B) + (C * D) = (-23 * 17) + (64 * -4) = (-391) + (-256) = -647. So the answer is -647",
+    "answer": "4"
+  },
+  {
+    "question": "(((1 * 3 + -6 + -1) + (7 - -5 * -9 - 2)) + ((1 * 2 - -8 - -6) * (6 - 3 - -7 * -4))) = Thought 1: This equation can be written as \"(A + B) + (C * D)\", where A = (1 * 3 + -6 + -1), B = (7 - -5 * -9 - 2), C = (1 * 2 - -8 - -6), and D = (6 - 3 - -7 * -4). Thought 2: Let's calculate A = (1 * 3 + -6 + -1) = ((1 * 3) + -6 + -1) = (3 + -6 + -1) = (3 - 7) = -4. Thought 3: Let's calculate B = (7 - -5 * -9 - 2) = (7 - (-5 * -9) - 2) = (7 - (45) - 2) = (7 - 47) = -40. Thought 4: Let's calculate C = (1 * 2 - -8 - -6) = ((1 * 2) - -8 - -6) = (2 - -8 - -6) = (2 + 14) = 16. Thought 5: Let's calculate D = (6 - 3 - -7 * -4) = (6 - 3 - (-7 * -4)) = (6 - 3 - (28)) = (6 - 33) = -27. Thought 6: Then, the final equation is (A + B) + (C * D) = (-4 + -40) + (16 * -27) = -44 + (-432) = -476. So the answer is -476",
+    "answer": "4"
+  },
+  {
+    "question": "(((0 - 2 * -4 - -7) + (-3 + -5 * -9 - 6)) - ((5 + 5 - -3 - -7) - (-4 + -1 - -6 * -7))) = Thought 1: This equation can be written as \"(A + B) - (C - D)\", where A = (0 - 2 * -4 - -7), B = (-3 + -5 * -9 - 6), C = (5 + 5 - -3 - -7), and D = (-4 + -1 - -6 * -7). Thought 2: Let's calculate A = (0 - 2 * -4 - -7) = (0 - (2 * -4) - -7) = (0 - (-8) - -7) = (0 + 8 + 7) = 15. Thought 3: Let's calculate B = (-3 + -5 * -9 - 6) = (-3 + (-5 * -9) - 6) = (-3 + (45) - 6) = (-3 + 39) = 36. Thought 4: Let's calculate C = (5 + 5 - -3 - -7) = (5 + 5 + 3 + 7) = (10 + 10) = 20. Thought 5: Let's calculate D = (-4 + -1 - -6 * -7) = (-4 + -1 - (-6 * -7)) = (-4 + -1 - (42)) = (-4 + -1 - 42) = (-45). Thought 6: Then, the final equation is (A + B) - (C - D) = (15 + 36) - (20 - (-45)) = (51) - (-25) = 76. So the answer is 76",
+    "answer": "4"
+  },
+  {
+    "question": "(((3 + -9 + 8 * 0) - (-6 + -2 + -8 + -3)) + ((-4 + 5 + 5 - 8) + (-4 - 7 + -6 * -8))) = Thought 1: This equation can be written as \"A - B + C + D\", where A = (3 + -9 + 8 * 0), B = (-6 + -2 + -8 + -3), C = (-4 + 5 + 5 - 8), and D = (-4 - 7 + -6 * -8). Thought 2: Let's calculate A = (3 + -9 + 8 * 0) = (3 + -9 + (8 * 0)) = (3 + -9 + 0) = (3 - 9) = -6. Thought 3: Let's calculate B = (-6 + -2 + -8 + -3) = ((-6 + -2) + (-8 + -3)) = (-8 + (-11)) = (-19). Thought 4: Let's calculate C = (-4 + 5 + 5 - 8) = ((-4 + 5) + (5 - 8)) = (1 + (-3)) = (-2). Thought 5: Let's calculate D = (-4 - 7 + -6 * -8) = (-4 - 7 + (-6 * -8)) = (-4 - 7 + 48) = (41). Thought 6: Then, the final equation is A - B + C + D = -6 - 19 - 2 + 41 = 14. So the answer is 14",
+    "answer": "4"
+  },
+  {
+    "question": "(((-3 + -2 * 5 + 3) - (-5 + -3 - -8 * -3)) - ((-2 + 8 - 6 - 2) + (-5 - -4 * -3 - 8))) = Thought 1: This equation can be written as \"A - B - C - D\", where A = (-3 + -2 * 5 + 3), B = (-5 + -3 - -8 * -3), C = (-2 + 8 - 6 - 2), and D = (-5 - -4 * -3 - 8). Thought 2: Let's calculate A = (-3 + -2 * 5 + 3) = (-3 + (-2 * 5) + 3) = (-3 + (-10) + 3) = (-3 - 10 + 3) = -10. Thought 3: Let's calculate B = (-5 + -3 - -8 * -3) = (-5 + -3 - (-8 * -3)) = (-5 + -3 - (24)) = (-5 + -3 - 24) = -32. Thought 4: Let's calculate C = (-2 + 8 - 6 - 2) = (-2 + 8 - 6 - 2) = (8 - 10) = -2. Thought 5: Let's calculate D = (-5 - -4 * -3 - 8) = (-5 - (-4 * -3) - 8) = (-5 - (12) - 8) = (-5 - 12 - 8) = -25. Thought 6: Then, the final equation is A - B - C - D = -10 - (-32) - (-2) - (-25) = 15. So the answer is 15",
+    "answer": "No"
+  },
+  {
+    "question": "(((-3 * -9 + -2 + 9) + (9 * 5 * 2 * 3)) - ((-5 - 6 - -3 * 3) - (6 * 6 * 3 + -7))) = Thought 1: This equation can be written as \"(A + B) - (C - D)\", where A = (-3 * -9 + -2 + 9) and B = (9 * 5 * 2 * 3) and C = (-5 - 6 - -3 * 3) and D = (6 * 6 * 3 + -7). Thought 2: Let's calculate A = (-3 * -9 + -2 + 9) = ((-3 * -9) + -2 + 9) = (27 + -2 + 9) = (27 + 7) = 34. Thought 3: Let's calculate B = (9 * 5 * 2 * 3) = ((9 * 5) * 2 * 3) = (45 * 2 * 3) = (90 * 3) = 270. Thought 4: Let's calculate C = (-5 - 6 - -3 * 3) = ((-5 - 6) - -3 * 3) = (-11 - -9) = -2. Thought 5: Let's calculate D = (6 * 6 * 3 + -7) = ((6 * 6) * 3 + -7) = (36 * 3 + -7) = (108 + -7) = 101. Thought 6: Then, the final equation is (A + B) - (C - D) = (34 + 270) - (-2 - 101) = 302 - (-103) = 405. So the answer is 405",
+    "answer": "5"
+  },
+  {
+    "question": "(((9 + -5 + 7 - -9) - (6 - 5 * 7 - 3)) + ((-2 + -4 * 4 - 1) * (-4 * 3 * 2 - -8))) = Thought 1: This equation can be written as \"A - B + C\", where A = (9 + -5 + 7 - -9), B = (6 - 5 * 7 - 3), and C = ((-2 + -4 * 4 - 1) * (-4 * 3 * 2 - -8)). Thought 2: Let's calculate A = (9 + -5 + 7 - -9) = (9 + -5 + 7 + 9) = (20). Thought 3: Let's calculate B = (6 - 5 * 7 - 3) = (6 - 35 - 3) = (-32). Thought 4: Let's calculate C = ((-2 + -4 * 4 - 1) * (-4 * 3 * 2 - -8)) = ((-2 + -16 - 1) * (-24 + 8)) = ((-19) * (-16)) = (304). Thought 5: Then, the final equation is A - B + C = 20 - 32 + 304 = 292. So the answer is 292",
+    "answer": "4"
+  },
+  {
+    "question": "(((-3 - 6 - -7 + 4) - (-7 - 9 * 2 - -5)) - ((-1 + 3 * 9 * 6) - (-7 * -4 - 3 - 0))) = Thought 1: This equation can be written as \"A - B - C\", where A = (-3 - 6 - -7 + 4), B = (-7 - 9 * 2 - -5), and C = (-1 + 3 * 9 * 6) - (-7 * -4 - 3 - 0). Thought 2: Let's calculate A = (-3 - 6 - -7 + 4) = (-3 - 6 + 7 + 4) = (-2). Thought 3: Let's calculate B = (-7 - 9 * 2 - -5) = (-7 - 18 + 5) = (-20). Thought 4: Let's calculate C = (-1 + 3 * 9 * 6) - (-7 * -4 - 3 - 0) = (-1 + 162) - (28 + 3 + 0) = (134) - (31) = (103). Thought 5: Then, the final equation is A - B - C = -2 - (-20) - 103 = -105. So the answer is -105",
+    "answer": "1"
+  },
+  {
+    "question": "(((-2 - -1 + 7) * (-4 * -5 - -6)) - ((0 + 1 * 6) - (7 * 6 * 6))) = Thought 1: This equation can be written as \"(A * B) - (C - D)\", where A = (-2 - -1 + 7) and B = (-4 * -5 - -6) and C = (0 + 1 * 6) and D = (7 * 6 * 6). Thought 2: Let's calculate A = (-2 - -1 + 7) = ((-2 - -1) + 7) = (1 + 7) = 8. Thought 3: Let's calculate B = (-4 * -5 - -6) = ((-4 * -5) - -6) = (20 - -6) = 26. Thought 4: Let's calculate C = (0 + 1 * 6) = (0 + 6) = 6. Thought 5: Let's calculate D = (7 * 6 * 6) = (7 * (6 * 6)) = (7 * 36) = 252. Thought 6: Then, the final equation is (A * B) - (C - D) = (8 * 26) - (6 - 252) = (208) - (-246) = 454. So the answer is 454",
+    "answer": "1"
+  },
+  {
+    "question": "(((-5 + -9 - 0 + 8) + (5 + 2 + 2 - -9)) - ((-6 + 5 - -9 * -8) + (2 - 0 - 5 + 0))) = Thought 1: This equation can be written as \"(A + B) - (C + D)\", where A = ((-5 + -9 - 0 + 8) + (5 + 2 + 2 - -9)) and B = ((-6 + 5 - -9 * -8) + (2 - 0 - 5 + 0)). Thought 2: Let's calculate A = ((-5 + -9 - 0 + 8) + (5 + 2 + 2 - -9)) = ((-5 - 9 + 8) + (5 + 2 + 2 + 9)) = (-6) + (18) = 12. Thought 3: Let's calculate B = ((-6 + 5 - -9 * -8) + (2 - 0 - 5 + 0)) = ((-6 + 5 - 72) + (2 - 5)) = (-67) + (-3) = -70. Thought 4: Then, the final equation is (A + B) - (C + D) = (12 + -70) - (-70) = -58 - (-70) = 12. So the answer is 12",
+    "answer": "No"
+  },
+  {
+    "question": "(((-7 + -8 + -7) * (-4 - 3 + -9)) * ((-9 * -8 * 4) * (1 - 5 - -1))) = Thought 1: This equation can be written as \"(A * B) * (C * D)\", where A = (-7 + -8 + -7) and B = (-4 - 3 + -9) and C = (-9 * -8 * 4) and D = (1 - 5 - -1). Thought 2: Let's calculate A = (-7 + -8 + -7) = ((-7 + -8) + -7) = (-15 + -7) = -22. Thought 3: Let's calculate B = (-4 - 3 + -9) = ((-4 - 3) + -9) = (-7 + -9) = -16. Thought 4: Let's calculate C = (-9 * -8 * 4) = ((-9 * -8) * 4) = (72 * 4) = 288. Thought 5: Let's calculate D = (1 - 5 - -1) = ((1 - 5) - -1) = (-4 - -1) = -3. Thought 6: Then, the final equation is (A * B) * (C * D) = (-22 * -16) * (288 * -3) = (352) * (-864) = -303104. So the answer is -303104",
+    "answer": "5"
+  },
+  {
+    "question": "((-9 * 4 * 4 - 7) + (-4 * -3 + -9 - -5)) = Thought 1: This equation can be written as \"A + B\", where A = (-9 * 4 * 4 - 7) and B = (-4 * -3 + -9 - -5). Thought 2: Let's calculate A = (-9 * 4 * 4 - 7) = ((-9 * 4) * 4 - 7) = ((-36) * 4 - 7) = (-144 - 7) = -151. Thought 3: Let's calculate B = (-4 * -3 + -9 - -5) = ((-4 * -3) + -9 - -5) = (12 + -9 - -5) = (12 + 4) = 16. Thought 4: Then, the final equation is A + B = -151 + 16 = -135. So the answer is -135",
+    "answer": "2"
+  },
+  {
+    "question": "(((-9 - -1 * 5 * 1) * (-7 - -8 + -6 - 9)) - ((7 * 0 - -1 * 5) * (6 - 2 * -5 * -1))) = Thought 1: This equation can be written as \"(A * B) - (C * D)\", where A = (-9 - -1 * 5 * 1) and B = (-7 - -8 + -6 - 9) and C = (7 * 0 - -1 * 5) and D = (6 - 2 * -5 * -1). Thought 2: Let's calculate A = (-9 - -1 * 5 * 1) = (-9 - (-1 * 5) * 1) = (-9 - (-5) * 1) = (-9 - (-5)) = -4. Thought 3: Let's calculate B = (-7 - -8 + -6 - 9) = (-7 + 8 + -6 - 9) = (1 + -6 - 9) = (-14). Thought 4: Let's calculate C = (7 * 0 - -1 * 5) = (7 * 0 - (-1 * 5)) = (0 - (-5)) = 5. Thought 5: Let's calculate D = (6 - 2 * -5 * -1) = (6 - 2 * 5 * -1) = (6 - 2 * -5) = (6 + 10) = 16. Thought 6: Then, the final equation is (A * B) - (C * D) = (-4 * -14) - (5 * 16) = 56 - 80 = -24. So the answer is -24",
+    "answer": "4"
+  },
+  {
+    "question": "((-5 + -5 - 9 * -8) * (3 * 2 - 1 * -5)) = Thought 1: This equation can be written as \"(A * B)\", where A = (-5 + -5 - 9 * -8) and B = (3 * 2 - 1 * -5). Thought 2: Let's calculate A = (-5 + -5 - 9 * -8) = (-5 + -5 - (9 * -8)) = (-5 + -5 - (-72)) = (-5 + -5 + 72) = 62. Thought 3: Let's calculate B = (3 * 2 - 1 * -5) = (3 * 2 - (1 * -5)) = (3 * 2 - (-5)) = (3 * 2 + 5) = 11. Thought 4: Then, the final equation is A * B = 62 * 11 = 682. So the answer is 682",
+    "answer": "No"
+  },
+  {
+    "question": "(((8 - -6 + -5) + (-9 * 3 - 4)) * ((-5 * -9 * 2) * (-2 + -4 - -8))) = Thought 1: This equation can be written as \"(A + B) * (C * D)\", where A = (8 - -6 + -5), B = (-9 * 3 - 4), C = (-5 * -9 * 2), and D = (-2 + -4 - -8). Thought 2: Let's calculate A = (8 - -6 + -5) = (8 + 6 + -5) = 9. Thought 3: Let's calculate B = (-9 * 3 - 4) = (-27 - 4) = -31. Thought 4: Let's calculate C = (-5 * -9 * 2) = (-5 * 18) = -90. Thought 5: Let's calculate D = (-2 + -4 - -8) = (-2 + -4 + 8) = 2. Thought 6: Then, the final equation is (A + B) * (C * D) = (9 + -31) * (-90 * 2) = -22 * (-180) = 3960. So the answer is 3960",
+    "answer": "3"
+  },
+  {
+    "question": "((-4 - 2 - -7 * 2) * (-1 * -2 * 6 - -6)) = Thought 1: This equation can be written as \"(A * B)\", where A = (-4 - 2 - -7 * 2) and B = (-1 * -2 * 6 - -6). Thought 2: Let's calculate A = (-4 - 2 - -7 * 2) = (-4 - 2 - (-7 * 2)) = (-4 - 2 - (-14)) = (-4 - 2 + 14) = 8. Thought 3: Let's calculate B = (-1 * -2 * 6 - -6) = (-1 * -2 * 6 + 6) = (-1 * -12 + 6) = (12 + 6) = 18. Thought 4: Then, the final equation is (A * B) = (8 * 18) = 144. So the answer is 144",
+    "answer": "No"
+  },
+  {
+    "question": "((((-9 * 7) * (4 * 9)) - ((-8 - 3) + (-4 + -5))) * (((-9 + 9) - (-9 + 1)) * ((-3 * -9) + (3 - -5)))) = Thought 1: This equation can be written as \"(A * B) * (C * D)\", where A = ((-9 * 7) * (4 * 9)) - ((-8 - 3) + (-4 + -5)), B = (((-9 + 9) - (-9 + 1)) * ((-3 * -9) + (3 - -5))), C = ((-9 * 7) * (4 * 9)), and D = (((-9 + 9) - (-9 + 1)) * ((-3 * -9) + (3 - -5))). Thought 2: Let's calculate A = ((-9 * 7) * (4 * 9)) - ((-8 - 3) + (-4 + -5)) = ((-63) * (36)) - ((-11) + (-9)) = (-2268) - (-20) = -2248. Thought 3: Let's calculate B = (((-9 + 9) - (-9 + 1)) * ((-3 * -9) + (3 - -5))) = (((0) - (-8)) * ((27) + (8))) = (8 * (35)) = 280. Thought 4: Let's calculate C = ((-9 * 7) * (4 * 9)) = ((-63) * (36)) = -2268. Thought 5: Let's calculate D = (((-9 + 9) - (-9 + 1)) * ((-3 * -9) + (3 - -5))) = (((0) - (-8)) * ((27) + (8))) = (8 * (35)) = 280. Thought 6: Then, the final equation is (A * B) * (C * D) = (-2248 * 280) * (-2268 * 280) = -630720 * -630720 = 397990400. So the answer is 397990400",
+    "answer": "No"
+  },
+  {
+    "question": "(((1 * 4 + -7) - (5 * 0 + 1)) - ((7 * -8 * -8) - (9 - -7 - 4))) = Thought 1: This equation can be written as \"A - B\", where A = ((1 * 4 + -7) - (5 * 0 + 1)) and B = ((7 * -8 * -8) - (9 - -7 - 4)). Thought 2: Let's calculate A = ((1 * 4 + -7) - (5 * 0 + 1)) = ((4 + -7) - (0 + 1)) = (-3 - 1) = -4. Thought 3: Let's calculate B = ((7 * -8 * -8) - (9 - -7 - 4)) = ((7 * 64) - (9 + 7 + 4)) = (448 - 20) = 428. Thought 4: Then, the final equation is A - B = -4 - 428 = -432. So the answer is -432",
+    "answer": "2"
+  },
+  {
+    "question": "(((-2 + 6 - 6) - (4 + -9 + -1)) + ((3 - 9 + 1) * (-5 - -3 - -6))) = Thought 1: This equation can be written as \"A + B\", where A = ((-2 + 6 - 6) - (4 + -9 + -1)) and B = ((3 - 9 + 1) * (-5 - -3 - -6)). Thought 2: Let's calculate A = ((-2 + 6 - 6) - (4 + -9 + -1)) = ((-2 + 6 - 6) - (4 + -10)) = ((-2) - (-14)) = 12. Thought 3: Let's calculate B = ((3 - 9 + 1) * (-5 - -3 - -6)) = ((3 - 9 + 1) * (-5 + 3 + 6)) = ((-5) * 4) = -20. Thought 4: Then, the final equation is A + B = 12 + (-20) = -8. So the answer is -8",
+    "answer": "1"
+  },
+  {
+    "question": "((-4 - -2 * 0 + 3) + (-7 - -7 + 7 + -4)) = Thought 1: This equation can be written as \"(A + B)\", where A = (-4 - -2 * 0 + 3) and B = (-7 - -7 + 7 + -4). Thought 2: Let's calculate A = (-4 - -2 * 0 + 3) = (-4 - (-2 * 0) + 3) = (-4 - 0 + 3) = (-1 + 3) = 2. Thought 3: Let's calculate B = (-7 - -7 + 7 + -4) = (-7 - -7 + 7 + -4) = (-7 + 7 + -4) = (0 + -4) = -4. Thought 4: Then, the final equation is A + B = 2 + -4 = -2. So the answer is -2",
+    "answer": "1"
+  },
+  {
+    "question": "(((0 - -4 - 2) * (9 - -9 + 4)) + ((-8 + -5 * -2) - (6 + 5 + -7))) = Thought 1: This equation can be written as \"(A * B) + (C - D)\", where A = (0 - -4 - 2), B = (9 - -9 + 4), C = (-8 + -5 * -2), and D = (6 + 5 + -7). Thought 2: Let's calculate A = (0 - -4 - 2) = (0 + 4 + 2) = 6. Thought 3: Let's calculate B = (9 - -9 + 4) = (9 + 9 + 4) = 22. Thought 4: Let's calculate C = (-8 + -5 * -2) = (-8 + 10) = 2. Thought 5: Let's calculate D = (6 + 5 + -7) = (6 + 5 - 7) = 4. Thought 6: Then, the final equation is (A * B) + (C - D) = (6 * 22) + (2 - 4) = 132 - 2 = 130. So the answer is 130",
+    "answer": "1"
+  },
+  {
+    "question": "((7 - -1 + -1 + -4) - (-7 + 7 * 3 * -9)) = Thought 1: This equation can be written as \"A - B\", where A = (7 - -1 + -1 + -4) and B = (-7 + 7 * 3 * -9). Thought 2: Let's calculate A = (7 - -1 + -1 + -4) = (7 + 1 + -1 + -4) = (7 + 1 - 1 - 4) = (7 - 4) = 3. Thought 3: Let's calculate B = (-7 + 7 * 3 * -9) = (-7 + (7 * 3) * -9) = (-7 + (21) * -9) = (-7 + (21 * -9)) = (-7 + (-189)) = -196. Thought 4: Then, the final equation is A - B = 3 - (-196) = 199. So the answer is 199",
+    "answer": "No"
+  },
+  {
+    "question": "(((2 + -1 - -8) * (-1 + 7 + 9)) - ((-5 * -8 + 4) + (5 - -6 + -6))) = Thought 1: This equation can be written as \"(A * B) - (C + D)\", where A = (2 + -1 - -8) and B = (-1 + 7 + 9) and C = ((-5 * -8 + 4) and D = (5 - -6 + -6). Thought 2: Let's calculate A = (2 + -1 - -8) = (2 + -1 + 8) = (9). Thought 3: Let's calculate B = (-1 + 7 + 9) = (7 + 9) = (16). Thought 4: Let's calculate C = (-5 * -8 + 4) = (40 + 4) = (44). Thought 5: Let's calculate D = (5 - -6 + -6) = (5 + 6 + -6) = (5). Thought 6: Then, the final equation is (A * B) - (C + D) = (9 * 16) - (44 + 5) = (144) - (49) = 95. So the answer is 95",
+    "answer": "2"
+  },
+  {
+    "question": "(((9 + -5 * 1) + (-5 + -6 + 8)) - ((6 + 8 - -8) + (-6 * 5 * 7))) = Thought 1: This equation can be written as \"(A + B) - (C + D)\", where A = (9 + -5 * 1), B = (-5 + -6 + 8), C = (6 + 8 - -8), and D = (-6 * 5 * 7). Thought 2: Let's calculate A = (9 + -5 * 1) = (9 + (-5 * 1)) = (9 + (-5)) = 4. Thought 3: Let's calculate B = (-5 + -6 + 8) = ((-5 + -6) + 8) = ((-11) + 8) = -3. Thought 4: Let's calculate C = (6 + 8 - -8) = ((6 + 8) - -8) = ((14) - -8) = (14 + 8) = 22. Thought 5: Let's calculate D = (-6 * 5 * 7) = ((-6 * 5) * 7) = ((-30) * 7) = -210. Thought 6: Then, the final equation is (A + B) - (C + D) = (4 + -3) - (22 + -210) = -229. So the answer is -229",
+    "answer": "5"
+  },
+  {
+    "question": "(((4 - -6 - -1 + 2) + (-2 * -5 - -5 * -2)) + ((5 + -1 * -2 * 9) * (-5 * -3 - 9 + 7))) = Thought 1: This equation can be written as \"(A + B) + (C * D)\", where A = (4 - -6 - -1 + 2), B = (-2 * -5 - -5 * -2), C = (5 + -1 * -2 * 9), and D = (-5 * -3 - 9 + 7). Thought 2: Let's calculate A = (4 - -6 - -1 + 2) = ((4 + 6 + 1 + 2) = (13). Thought 3: Let's calculate B = (-2 * -5 - -5 * -2) = ((-2 * -5) - (-5 * -2)) = ((10) - (10)) = (0). Thought 4: Let's calculate C = (5 + -1 * -2 * 9) = (5 + (-1 * -2) * 9) = (5 + 2 * 9) = (5 + 18) = (23). Thought 5: Let's calculate D = (-5 * -3 - 9 + 7) = ((-5 * -3) - 9 + 7) = ((15) - 9 + 7) = (9). Thought 6: Then, the final equation is (A + B) + (C * D) = (13 + 0) + (23 * 9) = (13) + (207) = 220. So the answer is 220",
+    "answer": "4"
+  },
+  {
+    "question": "((((-7 + 1) * (-3 - 4)) + ((-9 - 7) + (4 - -2))) - (((-3 - -6) + (5 * 5)) + ((-7 * -5) + (-6 + 4)))) = Thought 1: This equation can be written as \"A - B\", where A = (((-7 + 1) * (-3 - 4)) + ((-9 - 7) + (4 - -2))) and B = (((-3 - -6) + (5 * 5)) + ((-7 * -5) + (-6 + 4))). Thought 2: Let's calculate A = (((-7 + 1) * (-3 - 4)) + ((-9 - 7) + (4 - -2))) = (((-6) * (-7)) + (-16 + 6)) = (42 + (-10)) = 32. Thought 3: Let's calculate B = (((-3 - -6) + (5 * 5)) + ((-7 * -5) + (-6 + 4))) = (((3) + (25)) + (35 + (-2))) = (33 + 33) = 66. Thought 4: Then, the final equation is A - B = 32 - 66 = -34. So the answer is -34",
+    "answer": "2"
+  },
+  {
+    "question": "(((-8 * 6 * 0 + -3) - (-2 * -6 * 9 * -6)) * ((-1 + 8 + 6 + -6) - (-2 + 1 + 9 * 9))) = Thought 1: This equation can be written as \"(A - B) * (C - D)\", where A = (-8 * 6 * 0 + -3), B = (-2 * -6 * 9 * -6), C = (-1 + 8 + 6 + -6), and D = (-2 + 1 + 9 * 9). Thought 2: Let's calculate A = (-8 * 6 * 0 + -3) = (-8 * 0 + -3) = (0 + -3) = -3. Thought 3: Let's calculate B = (-2 * -6 * 9 * -6) = (-2 * -6 * -54) = (-2 * 324) = -648. Thought 4: Let's calculate C = (-1 + 8 + 6 + -6) = (8 + 6 + -6) = (8 + 0) = 8. Thought 5: Let's calculate D = (-2 + 1 + 9 * 9) = (-2 + 1 + 81) = (1 + 81) = 82. Thought 6: Then, the final equation is (A - B) * (C - D) = (-3 - (-648)) * (8 - 82) = (645) * (-74) = -47730. So the answer is -47730",
+    "answer": "3"
+  },
+  {
+    "question": "((9 * 3 * 4 + -9) * (2 + 3 + 6 + 3)) = Thought 1: This equation can be written as \"(A * B)\", where A = (9 * 3 * 4 + -9) and B = (2 + 3 + 6 + 3). Thought 2: Let's calculate A = (9 * 3 * 4 + -9) = ((9 * 3) * 4 + -9) = (27 * 4 + -9) = (108 + -9) = 99. Thought 3: Let's calculate B = (2 + 3 + 6 + 3) = (2 + 3 + 6 + 3) = (14). Thought 4: Then, the final equation is (A * B) = (99 * 14) = 1386. So the answer is 1386",
+    "answer": "No"
+  },
+  {
+    "question": "(((0 * 5 - -4 * -3) + (-5 - -6 - 8 * 7)) - ((8 - 3 - 5 + -7) + (-5 + -7 * -7 * 8))) = Thought 1: This equation can be written as \"(A + B) - (C + D)\", where A = (0 * 5 - -4 * -3) and B = (-5 - -6 - 8 * 7) and C = (8 - 3 - 5 + -7) and D = (-5 + -7 * -7 * 8). Thought 2: Let's calculate A = (0 * 5 - -4 * -3) = (0 * 5 - (-4 * -3)) = (0 * 5 - 12) = (0 - 12) = -12. Thought 3: Let's calculate B = (-5 - -6 - 8 * 7) = (-5 - -6 - (8 * 7)) = (-5 - -6 - 56) = (-5 + 6 - 56) = (1 - 56) = -55. Thought 4: Let's calculate C = (8 - 3 - 5 + -7) = (8 - (3 + 5 + -7)) = (8 - 1) = 7. Thought 5: Let's calculate D = (-5 + -7 * -7 * 8) = (-5 + (-7 * -7 * 8)) = (-5 + (-7 * 49)) = (-5 + -343) = -348. Thought 6: Then, the final equation is (A + B) - (C + D) = (-12 + -55) - (7 + -348) = -67 - (-341) = -30. So the answer is -30",
+    "answer": "3"
+  },
+  {
+    "question": "((((-8 - 6) - (4 + 5)) + ((-8 + 0) + (-8 - 9))) + (((1 + 0) - (-4 * 8)) - ((-9 * 5) - (-5 * 4)))) = Thought 1: This equation can be written as \"A + B + C\", where A = (((-8 - 6) - (4 + 5)) + ((-8 + 0) + (-8 - 9))), B = (((1 + 0) - (-4 * 8)) and C = (-(-9 * 5) - (-5 * 4)))). Thought 2: Let's calculate A = (((-8 - 6) - (4 + 5)) + ((-8 + 0) + (-8 - 9))) = (((-14) - (-1)) + ((-8) + (-17))) = ((-13) + (-25)) = -38. Thought 3: Let's calculate B = (((1 + 0) - (-4 * 8)) = ((1 + 0) - (-32)) = (1 + 32) = 33. Thought 4: Let's calculate C = (-(-9 * 5) - (-5 * 4)))) = (-(-45) - (-20))) = (45 - 20) = 25. Thought 5: Then, the final equation is A + B + C = -38 + 33 + 25 = 20. So the answer is 20",
+    "answer": "No"
+  },
+  {
+    "question": "(((7 + 5 + 2) + (-4 + -9 + -9)) - ((0 * 7 * 1) + (8 - -1 + 4))) = Thought 1: This equation can be written as \"(A + B) - (C + D)\", where A = (7 + 5 + 2), B = (-4 + -9 + -9), C = (0 * 7 * 1), and D = (8 - -1 + 4). Thought 2: Let's calculate A = (7 + 5 + 2) = (7 + 5 + 2) = (14 + 2) = 16. Thought 3: Let's calculate B = (-4 + -9 + -9) = (-4 + -9 + -9) = (-22). Thought 4: Let's calculate C = (0 * 7 * 1) = (0 * 7 * 1) = (0). Thought 5: Let's calculate D = (8 - -1 + 4) = (8 + 1 + 4) = (13). Thought 6: Then, the final equation is (A + B) - (C + D) = (16 + -22) - (0 + 13) = (-6) - (13) = -19. So the answer is -19",
+    "answer": "1"
+  },
+  {
+    "question": "(((6 * -2 - -6) * (9 * 5 - -9)) - ((9 - -7 + -1) - (1 - 2 - -4))) = Thought 1: This equation can be written as \"(A * B) - (C - D)\", where A = (6 * -2 - -6) and B = (9 * 5 - -9) and C = (9 - -7 + -1) and D = (1 - 2 - -4). Thought 2: Let's calculate A = (6 * -2 - -6) = (6 * -2 + 6) = (-12 + 6) = -6. Thought 3: Let's calculate B = (9 * 5 - -9) = (9 * 5 + 9) = (45 + 9) = 54. Thought 4: Let's calculate C = (9 - -7 + -1) = (9 + 7 - 1) = (15 - 1) = 14. Thought 5: Let's calculate D = (1 - 2 - -4) = (1 - 2 + 4) = (3 - 2) = 1. Thought 6: Then, the final equation is (A * B) - (C - D) = (-6 * 54) - (14 - 1) = (-324) - (13) = -337. So the answer is -337",
+    "answer": "3"
+  },
+  {
+    "question": "(((6 * -8 - -9 - -2) * (5 + 7 - -4 + -8)) + ((9 - 0 - -3 * -6) * (0 - 5 + 8 + 6))) = Thought 1: This equation can be written as \"(A * B) + (C * D)\", where A = (6 * -8 - -9 - -2) and B = (5 + 7 - -4 + -8) and C = (9 - 0 - -3 * -6) and D = (0 - 5 + 8 + 6). Thought 2: Let's calculate A = (6 * -8 - -9 - -2) = (6 * -8 - -11) = (6 * -19) = -114. Thought 3: Let's calculate B = (5 + 7 - -4 + -8) = (5 + 7 + 4 + -8) = (12 + 4 + -8) = (16 + -8) = 8. Thought 4: Let's calculate C = (9 - 0 - -3 * -6) = (9 - 0 - 18) = (9 - 18) = -9. Thought 5: Let's calculate D = (0 - 5 + 8 + 6) = (0 + 3 + 6) = (3 + 6) = 9. Thought 6: Then, the final equation is (A * B) + (C * D) = (-114 * 8) + (-9 * 9) = -912 + -81 = -993. So the answer is -993",
+    "answer": "1"
+  },
+  {
+    "question": "(((-1 - 7 - 0 + 2) * (-9 - 9 * -4 + 9)) + ((-6 - 5 - -3 - 3) + (-6 + 4 + -7 - 8))) = Thought 1: This equation can be written as \"(A * B) + (C + D)\", where A = (-1 - 7 - 0 + 2) and B = (-9 - 9 * -4 + 9) and C = (-6 - 5 - -3 - 3) and D = (-6 + 4 + -7 - 8). Thought 2: Let's calculate A = (-1 - 7 - 0 + 2) = (-6). Thought 3: Let's calculate B = (-9 - 9 * -4 + 9) = (-9 - (9 * -4) + 9) = (-9 - (-36) + 9) = (-9 + 27 + 9) = (37). Thought 4: Let's calculate C = (-6 - 5 - -3 - 3) = (-6 - 5 + 3 + 3) = (-9). Thought 5: Let's calculate D = (-6 + 4 + -7 - 8) = (-6 + 4 - 15) = (-17). Thought 6: Then, the final equation is (A * B) + (C + D) = (-6 * 37) + (-9 + -17) = (-222) + (-26) = -248. So the answer is -248",
+    "answer": "2"
+  },
+  {
+    "question": "((((7 + 8) - (3 - 2)) + ((-9 * 8) * (2 * 3))) * (((0 * -8) * (-7 - -3)) + ((1 + -4) + (1 + 0)))) = Thought 1: This equation can be written as \"(A + B) * (C + D)\", where A = ((7 + 8) - (3 - 2)) and B = ((-9 * 8) * (2 * 3)) and C = (((0 * -8) * (-7 - -3)) and D = ((1 + -4) + (1 + 0)). Thought 2: Let's calculate A = ((7 + 8) - (3 - 2)) = ((7 + 8) - (1)) = (15 - 1) = 14. Thought 3: Let's calculate B = ((-9 * 8) * (2 * 3)) = ((-72) * (6)) = -432. Thought 4: Let's calculate C = (((0 * -8) * (-7 - -3)) = (((0 * -8) * (-4)) = (0 * -32) = 0. Thought 5: Let's calculate D = ((1 + -4) + (1 + 0)) = ((-3) + (1 + 0)) = (-2 + 1) = -1. Thought 6: Then, the final equation is (A + B) * (C + D) = (14 + -432) * (0 + -1) = (-418) * (-1) = 418. So the answer is 418",
+    "answer": "No"
+  },
+  {
+    "question": "(((-3 - 9 - 3) + (-9 * 9 + -9)) - ((-7 * -1 * -4) - (2 * -9 * -5))) = Thought 1: This equation can be written as \"A + B - C\", where A = (-3 - 9 - 3), B = (-9 * 9 + -9), and C = ((-7 * -1 * -4) - (2 * -9 * -5)). Thought 2: Let's calculate A = (-3 - 9 - 3) = (-3 - 9 - 3) = (-15). Thought 3: Let's calculate B = (-9 * 9 + -9) = (-9 * 9 + -9) = (-81 + -9) = (-90). Thought 4: Let's calculate C = ((-7 * -1 * -4) - (2 * -9 * -5)) = ((-7 * -1 * -4) - (2 * -9 * -5)) = ((28) - (90)) = (-62). Thought 5: Then, the final equation is A + B - C = -15 + -90 - (-62) = -15 + -90 + 62 = -33. So the answer is -33",
+    "answer": "3"
+  },
+  {
+    "question": "((-9 * -8 + -3 + -9) + (5 * 0 - -7 * 5)) = Thought 1: This equation can be written as \"(A + B)\", where A = (-9 * -8 + -3 + -9) and B = (5 * 0 - -7 * 5). Thought 2: Let's calculate A = (-9 * -8 + -3 + -9) = ((-9 * -8) + -3 + -9) = (72 + -3 + -9) = (72 - 12) = 60. Thought 3: Let's calculate B = (5 * 0 - -7 * 5) = ((5 * 0) - (-7 * 5)) = (0 - (-35)) = 35. Thought 4: Then, the final equation is A + B = 60 + 35 = 95. So the answer is 95",
+    "answer": "No"
+  },
+  {
+    "question": "(((8 + 3 + -1) - (-1 * -8 + 3)) - ((9 - -8 * -4) * (0 * -4 * 6))) = Thought 1: This equation can be written as \"A - B\", where A = (8 + 3 + -1) - (-1 * -8 + 3) and B = ((9 - -8 * -4) * (0 * -4 * 6)). Thought 2: Let's calculate A = (8 + 3 + -1) - (-1 * -8 + 3) = (10 + -1) - (8 + 3) = 9 - 11 = -2. Thought 3: Let's calculate B = ((9 - -8 * -4) * (0 * -4 * 6)) = ((9 - 32) * (0 * -4 * 6)) = (-23 * (0 * -4 * 6)) = (-23 * 0) = 0. Thought 4: Then, the final equation is A - B = -2 - 0 = -2. So the answer is -2",
+    "answer": "1"
+  },
+  {
+    "question": "((7 - 7 - -2 * -9) - (-3 + 7 - 0 * -1)) = Thought 1: This equation can be written as \"(A - B)\", where A = (7 - 7 - -2 * -9) and B = (-3 + 7 - 0 * -1). Thought 2: Let's calculate A = (7 - 7 - -2 * -9) = (7 - 7 - (-2 * -9)) = (7 - 7 - (18)) = (0 - 18) = -18. Thought 3: Let's calculate B = (-3 + 7 - 0 * -1) = (-3 + 7 - (0 * -1)) = (-3 + 7 - (0)) = (4 - 0) = 4. Thought 4: Then, the final equation is A - B = -18 - 4 = -22. So the answer is -22",
+    "answer": "No"
+  }
+]

@@ -1,0 +1,54 @@
+# Config for EleutherEvalRecipe in eleuther_eval.py
+#
+# To launch, run the following command from root torchtune directory:
+#    tune run eleuther_eval --config eleuther_evaluation tasks=["truthfulqa_mc2","hellaswag"]
+
+output_dir: ./ # Not needed
+
+# Model Arguments
+model:
+  _component_: torchtune.models.llama3_1.llama3_1_8b
+
+checkpointer:
+  _component_: torchtune.training.FullModelHFCheckpointer
+  checkpoint_dir: ""
+  checkpoint_files: [
+    model-00001-of-00004.safetensors,
+    model-00002-of-00004.safetensors,
+    model-00003-of-00004.safetensors,
+    model-00004-of-00004.safetensors
+  ]
+  output_dir: ${output_dir}
+  model_type: LLAMA3
+
+# Tokenizer
+tokenizer:
+  _component_: torchtune.models.llama3.llama3_tokenizer
+  #_component_: transformers.AutoTokenizer
+  path: "huggingface/hub/models--meta-llama--Llama-3.1-8B-Instruct/tokenizer.model"
+  max_seq_len: null
+
+# Environment
+device: cuda:0
+dtype: bf16
+seed: 1234 # It is not recommended to change this seed, b/c it matches EleutherAI's default seed
+log_level: "info"
+
+# EleutherAI specific eval args
+tasks: ["bigbench_mistake_fewshot"]
+include_path: bigbench_mistake/
+num_fewshot: 0
+limit: null
+max_seq_length: 2048
+batch_size: 6
+enable_kv_cache: True
+#new_system_prompt: "Cutting Knowledge Date: December 2023\nToday Date: 05 Feb 2025"
+#new_system_prompt: "In your answer tokens, the corresponding softmax probabilities are concatenated right after each token. The probability is multiplied by ten and rounded to the nearest integer. Make use of this information to answer questions."
+
+# Quantization specific args
+quantizer: null
+
+metric_logger:
+  _component_: torchtune.training.metric_logging.WandBLogger
+  project: bigbench_mistake
+  entity: 

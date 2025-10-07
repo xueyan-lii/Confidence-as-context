@@ -1,4 +1,4 @@
-## Confidence-as-Context: \\Persistent Uncertainty Signals for Autoregressive Generation
+## Confidence-as-Context: Persistent Uncertainty Signals for Autoregressive Generation
 
 Overview
 
